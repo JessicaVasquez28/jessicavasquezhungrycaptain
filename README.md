@@ -19,7 +19,7 @@ Check out [API LIVE DEMO](https://backend-hc.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/amb179/hungry-captain.git
+1. Git Clone https://github.com/JessicaVasquez28/jessicavasquezhungrycaptain.git
 
 ```
 
